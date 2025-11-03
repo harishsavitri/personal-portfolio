@@ -25,7 +25,7 @@ This section lists Bhavya's technical skills along with her proficiency levels. 
 - MySQL (55%)
 
 ## Projects
-The "Projects" section details the projects Bhavya has worked on, including:
+The "Projects" section details the projects Harish  has worked on, including:
 - **Music Player**: Developed as part of a certification course on Java Full Stack Web Development with Spring Boot from Coding Ninjas.
 - **personaal Portfolio**: A dynamic resume showcasing skills and qualifications using HTML and CSS.
 
