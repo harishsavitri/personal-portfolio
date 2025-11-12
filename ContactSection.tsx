@@ -115,6 +115,11 @@ export function ContactSection() {
             </button>
           </form>
         </div>
+        <div className="mt-16 pt-8 border-t border-slate-700 text-center">
+          <p className="text-slate-400">
+            © 2025 DevOps Pro. Built with React js, TypeScript, Javascript, HTML, and Tailwind CSS
+          </p>
+        </div>
       </div>
     </div>
   );
